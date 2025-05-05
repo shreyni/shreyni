@@ -33,7 +33,7 @@
 
 ## 💼 Experience Snapshots
 
-### 🔬 **Research Scientist** – Syracuse University *(2024–Present)*
+### 🔬 **Research Assistant** – Syracuse University *(2024–Present)*
 - ✅ Accelerated training pipelines using **JAX + DeepSpeed**  
 - 🧠 Built LangChain-based LLM testing framework  
 - 🌀 Developed **real-time streaming ML** using PySpark & Kafka
