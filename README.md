@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 🎓 **MS in Computer Science** – *Syracuse University (May 2024)*  
-💼 **ML Engineer** – Deloitte | CASE | TATA Elxsi  
+💼 **ML Engineer** – Deloitte | VOLTELA | TATA Elxsi  
 🔬 **Researcher** – Multimodal AI, Streaming NLP, LLMs  
 🚀 Passionate about **AI deployments**, **data engineering**, and **MLOps**  
 📬 **Let's connect** → [Email](mailto:ucanfindshreyas18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shreyni/) | [Portfolio](#)
