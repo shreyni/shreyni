@@ -83,7 +83,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyni/shreyni/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shreyni/shreyni/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
