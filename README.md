@@ -33,7 +33,6 @@
 
 ## 💼 Experience Snapshots
 
-### 🔬 **Research Assistant** – Syracuse University *(2024–Present)*
 
 ### 🧭 **ML Engineer** – CASE @ Syracuse *(2023–2024)*
 - 🚘 Deployed autonomous navigation using LSTMs  
